@@ -9,8 +9,8 @@ function Member({members}) {
             <tr>
                 <th>Name</th>
                 <th>Email</th>
-                <th>Phone</th>
-                <th>Adress</th>
+                <th>PhoneNumber</th>
+                <th>Address</th>
             </tr>
             <tbody>
 
